@@ -1,22 +1,16 @@
 #EXTM3U x-tvg-url="" tv-test=".m3u"
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LU93.png" group-title="RN Rio Negro",LU93 El Seis - 27.1TV - SC de Bariloche - RN Rio Negro
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0227
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-C10RG.png" group-title="SC Santa Cruz",Cable 10 - 10CTV - Rio Gallegos - SC Santa Cruz
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0242
 #EXTINF:-1 tvg-id="06" tvg-name="Canal 10" tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png", Canal 10  | AR
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Local",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="CD Cd Aut Bs As",A24 - 36.3 TV - CABA TV TDA - CD Cd Aut Bs As
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0054
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIALERTN.png" group-title="CD Cd Aut Bs As",AN24 TV - WebTV - CABA TV Web - CD Cd Aut Bs As
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055
 #EXTINF:-1 tvg-id="02" tvg-name="Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png", Anime Zone TV  | AR
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="03" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png", CSTV  | CL
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="04" tvg-name="Locomotion" tvg-logo="https://www.m3u.cl/logo/50_Locomotion.png", Locomotion  | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----9R.png" group-title="CC Chaco",LT81 Nordeste 9 - 28.1TV - Resistencia - CC Chaco
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0132
 #EXTINF:-1 tvg-id="05" tvg-name="Canal 10 Rio Negro" tvg-logo="https://www.m3u.cl/logo/299_Canal_10_Rio_Negro.png", Canal 10 Rio Negro  | AR
 https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="07" tvg-name="Canal 22 Buenos Aires" tvg-logo="https://www.m3u.cl/logo/230_Canal_22_Buenos_Aires.jpg", Canal 22 Buenos Aires  | AR
@@ -55,6 +49,92 @@ https://srv1.zcast.com.br/daniel2525/daniel2525/playlist.m3u8?PlaylistM3UCL
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="23" tvg-name="AC Vision" tvg-logo="https://www.m3u.cl/logo/485_AC_Vision.png", AC Vision  | EC
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="24" tvg-name="Exprezion TV" tvg-logo="https://www.m3u.cl/logo/67_Exprezion_TV.png", Exprezion TV  | CL
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="25" tvg-name="La Red" tvg-logo="https://www.m3u.cl/logo/790_La_Red.jpg", La Red  | CL
+https://unlimited1-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="26" tvg-name="TVN" tvg-logo="https://www.m3u.cl/logo/452_TVN.png", TVN  | CL
+https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="27" tvg-name="CNN Chile" tvg-logo="https://www.m3u.cl/logo/789_CNN_Chile.jpg", CNN Chile  | CL
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="--" tvg-name="France 24" tvg-logo="https://www.m3u.cl/logo/516_France_24.png", France 24  | FR
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="28" tvg-name="Puerta Norte" tvg-logo="https://www.m3u.cl/logo/313_Puerta_Norte.png", Puerta Norte  | CL
+https://593b04c4c5670.streamlock.net/8170/8170/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="29" tvg-name="Geovision" tvg-logo="https://www.m3u.cl/logo/315_Geovision.jpg", Geovision  | CL
+https://5fa5de1a545ae.streamlock.net:443/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="30" tvg-name="Canal 74 TeVe" tvg-logo="https://www.m3u.cl/logo/334_Canal_74_TeVe.png", Canal 74 TeVe  | CL
+https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="CD Cd Aut Bs As",Fashion TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0020
+#EXTINF:-1 tvg-id="31" tvg-name="Tele2 Web" tvg-logo="https://www.m3u.cl/logo/347_Tele2_Web.png", Tele2 Web  | CL
+https://inliveserver.com:1936/11516/11516/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="32" tvg-name="TV MauleSur" tvg-logo="https://www.m3u.cl/logo/522_TV_MauleSur.png", TV MauleSur  | CL
+https://cloud2.streaminglivehd.com:1936/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="33" tvg-name="Canal Latino 54" tvg-logo="https://www.m3u.cl/logo/359_Canal_Latino_54.png", Canal Latino 54  | CL
+http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="34" tvg-name="Telenord 8" tvg-logo="https://www.m3u.cl/logo/745_Telenord_8.jpg", Telenord 8  | DO
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="756" tvg-name="TNI 51" tvg-logo="https://www.m3u.cl/logo/756_TNI_51.jpg", TNI 51  | DO
+https://ss8.domint.net:3126/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="758" tvg-name="TV Plata" tvg-logo="https://www.m3u.cl/logo/758_TV_Plata.jpg", TV Plata  | DO
+https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="760" tvg-name="Vallevisión" tvg-logo="https://www.m3u.cl/logo/760_Vallevision.png", Vallevisión  | DO
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="761" tvg-name="Vegavision Canal 18" tvg-logo="https://www.m3u.cl/logo/761_Vegavision_Canal_18.png", Vegavision Canal 18  | DO
+https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110" tvg-name="TV Puruwa" tvg-logo="https://www.m3u.cl/logo/110_TV_Puruwa.png", TV Puruwa  | EC
+https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Cine",Extrema TV  
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="Cine",Wow TV  
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1 ,COSTA RICA:Ticavision EUROVISION | SD  
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 group-title="Without category",TELEMILENIO SANTIAGO CHILE  
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="657" tvg-name="15TV Sabinas" tvg-logo="https://www.m3u.cl/logo/657_15TV_Sabinas.png", 15TV Sabinas  | MX
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="697" tvg-name="Hechicera TV" tvg-logo="https://www.m3u.cl/logo/697_Hechicera_TV.png", Hechicera TV  | PE
+https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="689" tvg-name="Mega TV" tvg-logo="https://www.m3u.cl/logo/689_Mega_TV.png", Mega TV  | PE
+https://media2.cdnlayer.biz:8081/8008/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="702" tvg-name="Unitel" tvg-logo="https://www.m3u.cl/logo/702_Unitel.png", Unitel  | PE
+https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="811" tvg-name="Paravision" tvg-logo="https://www.m3u.cl/logo/811_Paravision.jpg", Paravision  | PY
+http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="828" tvg-name="Somos Del Este TV" tvg-logo="https://www.m3u.cl/logo/828_Somos_Del_Este_TV.jpg", Somos Del Este TV  | PY
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----C4.png" group-title="GB Gran Bs As",C4 Teleaire - 4 TV - San Martin - GB Gran Bs As
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0071
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITVUNLP.png" group-title="BA Buenos Aires",TV Universidad - 32.1TV - La Plata  TV - BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0090
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICIURES.png" group-title="CC Chaco",Ciudad TV - 27.2TV - Resistencia - CC Chaco
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0131
+#EXTINF:-1 tvg-id="808" tvg-name="Canal Noticias PY" tvg-logo="https://www.m3u.cl/logo/808_Canal_Noticias_PY.jpg", Canal Noticias PY  | PY
+http://edge-live14-sl.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=2100000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://www.m3u.cl/logo/52_Dreiko_TV.png", Dreiko TV  | PA
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="470" tvg-name="Zee Mundo" tvg-logo="https://www.m3u.cl/logo/470_Zee_Mundo.png", Zee Mundo  | CL
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="472" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png", Mi TV Televisión Clásica  | US
+http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="481" tvg-name="FMTV 1" tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png", FMTV 1  | US
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="482" tvg-name="FMTV 2 Movies" tvg-logo="https://www.m3u.cl/logo/482_FMTV_2_Movies.png", FMTV 2 Movies  | US
+https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="98" tvg-name="CineCable TV" tvg-logo="https://www.m3u.cl/logo/98_CineCable_TV.png", CineCable TV  | EC
+https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106" tvg-name="RecTV" tvg-logo="https://www.m3u.cl/logo/106_RecTV.jpg", RecTV  | EC
+https://video.misistemareseller.com:443/Jonnytv/Jonnytv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="606" tvg-name="Cazavision" tvg-logo="https://www.m3u.cl/logo/606_Cazavision.png", Cazavision  | ES
+https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Entretenimiento",Canal 10  
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",CGTN ES  
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1,TV VENEZUELA  
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="Exprezion TV" tvg-logo="https://www.m3u.cl/logo/67_Exprezion_TV.png", Exprezion TV  | CL
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="25" tvg-name="La Red" tvg-logo="https://www.m3u.cl/logo/790_La_Red.jpg", La Red  | CL
