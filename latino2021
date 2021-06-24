@@ -26,10 +26,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0020
 https://stmv.panel.mivideo.pro/cineperu/cineperu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/max_tv_hr_promo.jpg"  , GO MAX PREMIERE
 https://stmvideo1.livecastv.com/iptvgo/iptvgo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/retro_tv_uk.jpg"  , RETRO PLAY
-https://paneltv.online:1936/8138/8138/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/tve_canal_clasico.jpg"  , CINE CLASICO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?
 #EXTINF:-1 tvg-logo=" "  , A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 tvg-logo=" "  , FM 2 MOVIES
