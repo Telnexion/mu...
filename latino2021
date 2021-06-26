@@ -14,14 +14,10 @@ http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 , 00 | MAGIC KIDS
 https://live.admefy.com/live/clean_peach_ef224.m3u8
-#EXTINF:-1 , 00 | SONY NOVELAS
-https://sony-novelas-1.roku.wurl.com/playlist.m3u8
-#EXTINF:-1 , 00 | FASHION TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b600000_t64MjQwcA==.m3u8
+
 #EXTINF:-1 , 00 | HOLA TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
-#EXTINF:-1 , 08 | CANAL 9  
-http://54.39.51.30:25461/5492616835156/anL45iGR5d/12622
+
 #EXTINF:-1 , 09 | CRONICA
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 #EXTINF:-1 , 10 | RT ESPAÑOL
@@ -299,8 +295,7 @@ http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?Playlis
 http://cdn.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/Canal10_URU.m3u8
 #EXTINF:-1 , 07 | ENCUENTRO 
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1733579940.m3u8
-#EXTINF:-1 , 07 | LOVE NATURE
-https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 , 07 | RETROPLUS SERIES
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w458806239.m3u8?WebM3UCL
 #EXTINF:-1 , 07 | TELERED
@@ -313,8 +308,7 @@ https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1  , 07 | Canal Capital
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
-#EXTINF:-1  , 07 | Canal TRO
-http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+
 
 
 #EXTINF:-1  , 07 | On Radio Kpop
@@ -360,18 +354,6 @@ https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 #EXTINF:-1   , 07 | Primavera 15 
 https://rtmp02.portalexpress.es/primaveratv/primaveratv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
