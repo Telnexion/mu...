@@ -12,12 +12,22 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 , 07 | Locomotion |AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 , 00 | MAGIC KIDS
+https://live.admefy.com/live/clean_peach_ef224.m3u8
+#EXTINF:-1 , 00 | SONY NOVELAS
+https://sony-novelas-1.roku.wurl.com/playlist.m3u8
+#EXTINF:-1 , 00 | FASHION TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b600000_t64MjQwcA==.m3u8
+#EXTINF:-1 , 00 | HOLA TV
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 , 08 | CANAL 9  
 http://54.39.51.30:25461/5492616835156/anL45iGR5d/12622
 #EXTINF:-1 , 09 | CRONICA
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 #EXTINF:-1 , 10 | RT ESPAÑOL
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
+#EXTINF:-1 , 00 | EURONEWS
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
 #EXTINF:-1 , 11 | Canal 22 Buenos Aires |AR
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 , 12 | CINE CLUB
@@ -44,6 +54,8 @@ https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 , 23 | RAKUTEN FAMILIA
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 , 24 | SERIES RETRO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8
 
 #EXTINF:-1 , 25 | RAKUTEN TOP FREE
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
@@ -323,6 +335,39 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 https://unlimited2-cl.dps.live/contivision/contivision.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  , 07 | Estacion TV
 https://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1   , 07 | LATINOS UP
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
+#EXTINF:-1   , 07 | COSMO
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+#EXTINF:-1   , 07 | DKISS
+http://91.126.141.201:1935/live/kiss/playlist.m3u8
+#EXTINF:-1   , 07 | TEN
+http://91.126.141.201:1935/live/ten/playlist.m3u8
+#EXTINF:-1   , 07 | LA CALETA
+https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
+#EXTINF:-1   , 07 | MICROVISION
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+#EXTINF:-1   , 07 | TELEUNION
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+#EXTINF:-1   , 07 | VALLEVISION
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1   , 07 | TELEMON
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
+#EXTINF:-1   , 07 | INFINITA
+https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
+#EXTINF:-1   , 07 | Canal 45 TV
+https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
+#EXTINF:-1   , 07 | Primavera 15 
+https://rtmp02.portalexpress.es/primaveratv/primaveratv/playlist.m3u8
+
+
+
+
+
+
+
+
 
 
 
