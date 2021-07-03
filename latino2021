@@ -37,8 +37,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #EXTINF:-1 , 19 | REC ONLINE
 https://master.tucableip.com/reconline/live/video.m3u8
-#EXTINF:-1 , 20 | CSTV  |CL
-https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 , 20 | HDFashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
 #EXTINF:-1 , 21 | CABLEMAS
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 #EXTINF:-1 , 22 | La Voz de Tucuman  | AR
@@ -291,3 +291,16 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w148
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 , 146 | City TV (Rusia)
 http://cdn1.live-tv.od.ua:8081/a1od/citytv-abr/a1od/citytvod/chunks.m3u8
+#EXTINF:-1 , 147 | CGTN ES
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 , 148 | Mundo Mas
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 , 149 | U TV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 , 150 | FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
+
+
+
+
