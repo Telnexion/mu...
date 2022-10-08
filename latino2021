@@ -1,83 +1,66 @@
 #EXTM3U x-tvg-url="" tv-test=".m3u"
 
+#EXTINF:-1 , 12 | HOLA TV
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+#EXTINF:-1  , 47
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 , 07 | América TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+#EXTINF:-1  , 50
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 , 62 | RETROPLUS SERIES
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:-1  , 63
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
+#EXTINF:-1  ,  02
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
+#EXTINF:-1 , 66 | DANTV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+#EXTINF:-1  ,  022
+https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
+#EXTINF:-1 , 70 | CANELA TV 2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
+#EXTINF:-1 , 143 | DELTA TV
+http://cm.hostlagarto.com:8081/deltatv/deltatv50.myStream/chunks.m3u8
+#EXTINF:-1  , Migente
+https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
+#EXTINF:-1  , Telepacifico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1  , Neuquen24/7
+https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
+#EXTINF:-1  , 52
+http://190.108.83.142:8000/play/a007/index.m3u8
 #EXTINF:-1  ,  Fashion TV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-
-
+#EXTINF:-1 ,654
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 ,Loop80sEast
 https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
 
-#EXTINF:-1 ,DramaLife
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-
 #EXTINF:-1 ,ExtremaTV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
+#EXTINF:-1  , 67
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 #EXTINF:-1 ,FashionTVEurope
 https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
+#EXTINF:-1  ,  Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 ,FashionTVNewYork
 https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
-
-#EXTINF:-1 ,FashionTVPG13
-https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 ,FashionTVSingapore
-https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
-
-#EXTINF:-1 ,FashionTVCzechSlovak
-
+#EXTINF:-1 , 150 | FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 ,FoxNewsNow
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 ,GlobalFashionChannel
 https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
-#EXTINF:-1  ,  Fashion TV New York
-http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/chunklist_b2878000_t64RGVmYXVsdA==.m3u8?
-
-#EXTINF:-1  ,  Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1  ,  Fashion TV Tokyo
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 , 12 | HOLA TV
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
-
-#EXTINF:-1 , 07 | América TV
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-
-#EXTINF:-1 , 08 | A24
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
-
-#EXTINF:-1 , 18 | PH TV
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
-
-#EXTINF:-1 , 30 | Extrema TV
-
-
-#EXTINF:-1 , 62 | RETROPLUS SERIES
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-
-#EXTINF:-1 , 63 | TELESISTEMA
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
-
-#EXTINF:-1 , 66 | DANTV
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
-
-#EXTINF:-1 , 70 | CANELA TV 2
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
-
-
 #EXTINF:-1 , 73 | Exprezion TV
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 
 #EXTINF:-1 , 78 | Canal Cinco Tigre | AR
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 , 80 | Retro Plus TV Señal 3 | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 , 84 | Telenord 8  | DO
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 , 85 | Vallevisión  | DO
@@ -86,8 +69,7 @@ http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?Playli
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 , 93 | Canal 10
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 , 97 | Canal 74 TeVe  | CL
-https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 , 107 | RecTV  | EC
 https://video.misistemareseller.com:443/Jonnytv/Jonnytv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 , 112 | NET TV
@@ -95,27 +77,22 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF:-1 , 117 | TELERED
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
-#EXTINF:-1 , 118 | TELESISTEMA
-http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w227848239.m3u8?WebM3UCL
 
 
 #EXTINF:-1 , 135 | LA CALETA
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 #EXTINF:-1 , 137 | TELEUNION
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
-#EXTINF:-1 , 143 | DELTA TV
-http://cm.hostlagarto.com:8081/deltatv/deltatv50.myStream/chunks.m3u8
+
 #EXTINF:-1 , 144 | POP TV
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1489788315_b978000_sleng.m3u8
 #EXTINF:-1 , 145 | China  V2
 http://de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 , 150 | FASHION TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
 #EXTINF:-1 , CANAL 5TV  |
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 , PopTV |
-https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 , Portal FoxMix  |
@@ -128,8 +105,6 @@ https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,Canal 5 Pico Truncado  |
 http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,39" ,Karibeña TV
-https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,Maxima FM |
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL#EXTINF:-1 ,31" ,Portal FoxMix"  https://www.m3u.cl/logo/31_Portal_FoxMix.png", Portal FoxMix | CLhttp://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL#EXTINF:-1 ,387" ,Zona Play Radio"  https://www.m3u.cl/logo/387_Zona_Play_Radio.jpg", Zona Play Radio | CLhttps://srv1.zcast.com.br/zonaplay/zonaplay/playlist.m3u8?PlaylistM3UCL#EXTINF:-1 ,400" ,Red Fueguina Radio"  https://www.m3u.cl/logo/400_Red_Fueguina_Radio.png", Red Fueguina Radio | CLhttps://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
@@ -138,7 +113,12 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,WappTV |
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Bonao TV |
-https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL#EXTINF:-1 ,PortalFoxMix Tv En Vivo Online http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8#EXTINF:-1 ,ARGENTINA:Music Top | HD http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8#EXTINF:-1 ,VISUAL RADIO http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8?tecnotv.info?iptv.m3u8
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,ARGENTINA:Music Top | HD 
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 ,VISUAL RADIO 
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8?tecnotv.info?iptv.m3u8
 
 #EXTINF:-1 ,8 NTV |
 https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
@@ -146,18 +126,12 @@ https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UC
 http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
 #EXTINF:-1  ,  Sonus
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
-#EXTINF:-1  ,  Deejay
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1  ,  Portal FoxMix
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
-
 
 #EXTINF:-1  ,  V2BEAT TV
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1  ,  M6 Music
 http://190.2.155.162:8080/m6music/mpegts
-#EXTINF:-1  ,  MTV HD
-http://190.2.155.162:8080/mtvfrance/mpegts
+
 #EXTINF:-1  ,  MTV HITS HD
 http://190.2.155.162:8080/mtvhit/mpegts
 #EXTINF:-1  ,  MUZZIK AMVA
@@ -166,7 +140,8 @@ http://muzzik-live.morescreens.com/mts-8/chunklist.m3u8
 http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1  ,  MUZZIK
 http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1  ,  MUZZIK HIP-HOP http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1  ,  MUZZIK HIP-HOP 
+http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1  ,  MUZZIK JEKA
 http://muzzik-live.morescreens.com/mts-4/playlist.m3u8
 #EXTINF:-1  ,  MUZZIK MEDITERANEO
@@ -179,10 +154,6 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1  ,  Ocko Star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1  ,  Reload Radio Music Power
-http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1  ,  VEVO Hip-Hop HD
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 #EXTINF:-1  ,  VEVO Latino HD
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
@@ -201,24 +172,16 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
 
 
-#EXTINF:-1  , Migente
-https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
-#EXTINF:-1  , Telepacifico
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1  , Neuquen24/7
-https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
-#EXTINF:-1  , A24
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+
 #EXTINF:-1  , Avctv
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1  , Adn40
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/live
+
 #EXTINF:-1  , Alcarriatv
 http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 #EXTINF:-1  , Alciastv
 https://emisoras.hn:8081/atv/index.m3u8
-#EXTINF:-1  , Americatv
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
 #EXTINF:-1  , Amx Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
@@ -231,83 +194,49 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1  , AsiriTv
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1  , Atv
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:-1  , Atv+
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+
 #EXTINF:-1  , Aviva atv
 https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
-#EXTINF:-1  , AysenTv
-https://v2.tustreaming.cl/aysentv/playlist.m3u8
-#EXTINF:-1  , Abanquina
-https://v4.tustreaming.cl/bellatv/index.m3u8
+
 #EXTINF:-1  , BellaAsuncion
 https://tvdatta.com:3602/stream/play.m3u8
-#EXTINF:-1  , BestCable
-https://ca.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
+
 
 
 #EXTINF:-1  , BhTv
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1  , Bolivia
-https://play.amelbasoluciones.co:3546/live/boliviaradiotvlive.m3u8
+
 #EXTINF:-1  , 11
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1  , CampusTv
-http://st2.worldkast.com/8004/8004/playlist.m3u8
-#EXTINF:-1  , 12
+
+#EXTINF:-1  , campustv
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1  , Canal2SanAntonio
 https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1  , Canal2Jujuy
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
-#EXTINF:-1  , Canal3
-https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/playlist.m3u8
+
 #EXTINF:-1  , Canal4
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-#EXTINF:-1  , 15
-https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/playlist.m3u8
-#EXTINF:-1  , 16
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
 
-#EXTINF:-1  , 18
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/canal6nicaraguaoficial
+
 #EXTINF:-1  , 19
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1  , 20
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
-#EXTINF:-1  , 221
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1  , 22
-http://streamingcws20.com:1935/tves/tves.smil/playlist.m3u8
-#EXTINF:-1  , 23
+
+
 #EXTINF:-1  , 24
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1  , 25
-https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8
-#EXTINF:-1  , 26
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
-#EXTINF:-1  , 27
-https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/playlist.m3u8
+
 #EXTINF:-1  , 28
 https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
 #EXTINF:-1  , 29
 http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1  , 30
-http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
-#EXTINF:-1  , 31
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@429494/master.m3u8
-
-
-#EXTINF:-1  , 33
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
-
 
 #EXTINF:-1  , 35
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1  , 36
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1  , 37
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
 
@@ -320,164 +249,176 @@ https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
 
 
 
-#EXTINF:-1  , 43
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1  , Cinevision t9
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
-#EXTINF:-1  , 44
-https://videostreaming.cloudserverlatam.com/Kids90/Kids90/playlist.m3u8
-#EXTINF:-1  , 45
-https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1  , 46
 http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
-#EXTINF:-1  , 47
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1  , 48
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
-#EXTINF:-1  , 49
-https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
-#EXTINF:-1  , 50
-https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1  , 51
-https://srv1.mediastreamperu.com:8081/creotv/index.m3u8
-#EXTINF:-1  , 52
-http://190.108.83.142:8000/play/a007/index.m3u8
-#EXTINF:-1  , 53
-https://stmv.panel.grupolimalive.com/cvmtv/cvmtv/playlist.m3u8
-#EXTINF:-1  , 54
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1  , 56
 http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1  , 57
 https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
-#EXTINF:-1  , 58
-https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
 
 #EXTINF:-1  , 60
 http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8
-#EXTINF:-1  , 61
-https://ca.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
 
-
-#EXTINF:-1  , 63
-http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
-#EXTINF:-1  , 64
-https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 
 #EXTINF:-1  , 66
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8
-#EXTINF:-1  , 67
-https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
-#EXTINF:-1  , 68
-https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8
+
+
 #EXTINF:-1  ,  1
 http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
 #EXTINF:-1  ,  2
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
 #EXTINF:-1  ,  03
 http://lencatelevision.com:8080/hls/ltv1.m3u8
-#EXTINF:-1  ,  04
-https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
-#EXTINF:-1  ,  05
-https://v2.tustreaming.cl/lrp/index.m3u8
 #EXTINF:-1  ,  06
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
-#EXTINF:-1  ,  07
-https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
-#EXTINF:-1  ,  80
-https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
-#EXTINF:-1  ,  09
-http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1  ,  10
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
-#EXTINF:-1  ,  01
-https://media.streambrothers.com:1936/8140/8140/playlist.m3u8
-#EXTINF:-1  ,  02
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
-https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
-#EXTINF:-1  ,  00
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  ,  52
 http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+#EXTINF:-1  ,  18
 https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
+#EXTINF:-1  ,  17
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
+#EXTINF:-1  ,  16
 https://multicanal.streamseguro.com/hls/streaming.m3u8
+#EXTINF:-1  ,  15
 https://videostreaming.cloudserverlatam.com/8078/8078/playlist.m3u8
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1  ,  12
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
-https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8
-https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+
+
+
+
+#EXTINF:-1  ,  7
 http://190.108.83.142:8000/play/a00d/index.m3u8
+#EXTINF:-1  ,  6
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
-https://live.obslivestream.com/planetatvmux/index.m3u8
+
+#EXTINF:-1  ,  5
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
-#EXTINF:-1  ,  08
-https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
+#EXTINF:-1 ,4
 https://servilive.com:3753/live/qosqotimeslive.m3u8
-http://free.fullspeed.tv/iptv-query?streaming-ip=
-https://www.dailymotion.com/video/x8452uw
+
+#EXTINF:-1 ,5
 http://v4.tustreaming.cl/quillavision/index.m3u8
+#EXTINF:-1 ,6
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
+#EXTINF:-1 ,2
 https://servilive.com:3757/live/regiontvlive.m3u8
-https://inliveserver.com:1936/8158/8158/playlist.m3u8
+
+#EXTINF:-1 ,4
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 ,8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 ,4
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
+#EXTINF:-1 ,65
 https://stmv1.zcastbr.com/roatanhableclaro/roatanhableclaro/playlist.m3u8
-https://live.obslivestream.com/selvatvmux/index.m3u8
+#EXTINF:-1 ,77
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:-1 ,5
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 ,665
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+#EXTINF:-1 ,778
 https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
+#EXTINF:-1 ,55
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
-http://tiquiciatv.com:1935/stv/web/playlist.m3u8
-https://secure-video.tcsgo.com/tcshd/index.m3u8
-http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+
+
+
+
+
+#EXTINF:-1 ,75
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+
+#EXTINF:-1 ,54
 https://envivo.telerama.ec/stream.m3u8
+#EXTINF:-1 ,787
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+#EXTINF:-1 ,587
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/playlist.m3u8
-http://st2.worldkast.com/8058/8058/playlist.m3u8
-http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8
+
+#EXTINF:-1 ,5356
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1 ,78
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
-https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal23.smil/playlist.m3u8
+#EXTINF:-1 ,87
 https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
+#EXTINF:-1 ,877
 https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
-https://emisoras.hn:8081/tvcopan/index.m3u8
-https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8
-http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 ,989
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8
+#EXTINF:-1 ,8687
 https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 ,988
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/playlist.m3u8
+
+#EXTINF:-1 ,785
 http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8
+#EXTINF:-1 ,455
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
-https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+
+#EXTINF:-1 ,78
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+#EXTINF:-1 ,8
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
+#EXTINF:-1 ,75
 http://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 ,545
 https://live-utv.unah.edu.hn/web/salida.m3u8
-http://45.55.127.106/live/unicanal.m3u8
+
+#EXTINF:-1 ,78
 https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
-https://live.obslivestream.com/uraniomux/index.m3u8
-http://vcp1.myplaytv.com/valetv/valetv/playlist.m3u8
-https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+
+#EXTINF:-1 ,478
 https://vps1.lnx.pe/vamisa/envivo/index.m3u8
-http://190.122.96.187:8888/
+
 
 #EXTINF:-1 ,SercanoTV
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
@@ -485,7 +426,7 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 #EXTINF:-1 ,ShalomTV
 http://api.new.livestream.com/accounts/25038049/events/7483919/live.m3u8
 
-#EXTINF:-1 ,SolStereoTV
+
 
 #EXTINF:-1 ,T13
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live
@@ -496,21 +437,13 @@ https://video.telesafor.com/hls/video.m3u8
 #EXTINF:-1 ,TeleFormula
 https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
 
-#EXTINF:-1 ,Teleimpacto
-http://190.122.96.188:8888/http/013
 
-#EXTINF:-1 ,TeleJunin
-https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 
-#EXTINF:-1 ,Telemadrid
 
-#EXTINF:-1 ,Telemax
 
 #EXTINF:-1 ,XEWHTDT
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 
-#EXTINF:-1 ,Telemilenio
-http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 
 #EXTINF:-1 ,TN8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
@@ -520,15 +453,10 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 ,TelenordCorrientes
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
-#EXTINF:-1 ,Telerama
 
-#EXTINF:-1 ,TeleredTelevision
 
 #EXTINF:-1 ,TeleRibera
 http://37.187.7.106/teleribera/live.m3u8
-
-#EXTINF:-1 ,Teleritmo
-
 
 
 #EXTINF:-1 ,TelesolTLS
@@ -541,42 +469,20 @@ https://ss3.domint.net:3124/tls_str/telesur/playlist.m3u8
 http://k3.usastreams.com/telesur/telesur/playlist.m3u8
 
 
-#EXTINF:-1 ,TelevisaCiudadJuarez
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCot4t8PVKz8TT5xVM8Eb00w/live
-
-
-
-#EXTINF:-1 ,TelpinCanal2
-
-#EXTINF:-1 ,TENCanal10
-
-#EXTINF:-1 ,TPTO
-https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
-
 #EXTINF:-1 ,TreceParaguay
 http://174.138.118.252/live/trece.m3u8
 
-#EXTINF:-1 ,TribunaTV
-
-#EXTINF:-1 ,TurboMixRadioTV
+#EXTINF:-1 ,TurboMixRadioTV-----
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
 #EXTINF:-1 ,TuyaLaJandaTelevision
 http://185.210.20.13:8080/0.m3u8
 
-#EXTINF:-1 ,TV8Concepcion
 
-#EXTINF:-1 ,TVCopan
 
 #EXTINF:-1 ,TVNorteChiclayo
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TVNORTEHD
 
-#EXTINF:-1 ,TVNoticias73
-
-#EXTINF:-1 ,TVPalmeras
-
-
-#EXTINF:-1 ,TVPeruNoticias
 
 #EXTINF:-1 ,TVPop
 https://v4.tustreaming.cl/poptv/playlist.m3u8
@@ -1306,119 +1212,120 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/299386?checkedby:iptvcat.com
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/299351?checkedby:iptvcat.com
 #EXTINF:-1   ,Cine Latino ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/299361?checkedby:iptvcat.com
-#EXTINF:-1   ,Classica ES
+#EXTINF:0      ,Classica ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48695?checkedby:iptvcat.com
-#EXTINF:-1   ,Comedy Central
+#EXTINF:0     ,Comedy Central
 http://red.ipfox.org:8080/osama2022/osama2023/47436?checkedby:iptvcat.com
-#EXTINF:-1   ,Cuatro
+#EXTINF:0    ,Cuatro
 http://red.ipfox.org:8080/osama2022/osama2023/47459?checkedby:iptvcat.com
-#EXTINF:-1   ,DMAX
+#EXTINF:0      ,DMAX
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/dmax.es.m3u8?checkedby:iptvcat.com
-#EXTINF:-1   ,Discovery
+#EXTINF:0     ,Discovery
 http://red.ipfox.org:8080/osama2022/osama2023/47365?checkedby:iptvcat.com
+#EXTINF:0   55
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.es.m3u8?checkedby:iptvcat.com
-#EXTINF:-1   ,Discovery Channel ES
+#EXTINF:0     ,Discovery Channel ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48706?checkedby:iptvcat.com
-#EXTINF:-1   ,Disney Channel
+#EXTINF:0      ,Disney Channel
 http://red.ipfox.org:8080/osama2022/osama2023/47348?checkedby:iptvcat.com
-#EXTINF:-1   ,Divinity
+#EXTINF:0     ,Divinity
 http://red.ipfox.org:8080/osama2022/osama2023/47361?checkedby:iptvcat.com
-#EXTINF:-1   ,Dmax HD ES
+#EXTINF:0      ,Dmax HD ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48714?checkedby:iptvcat.com
-#EXTINF:-1   ,El Garage TV HD ES
+#EXTINF:0     ,El Garage TV HD ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/100178?checkedby:iptvcat.com
-#EXTINF:-1   ,FOX Life
+#EXTINF:0    ,FOX Life
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.life.es.m3u8?checkedby:iptvcat.com
-#EXTINF:-1   ,Fashion TV ES
+#EXTINF:0     ,Fashion TV ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/299421?checkedby:iptvcat.com
-#EXTINF:-1   ,Fox
+#EXTINF:0     ,Fox
 http://red.ipfox.org:8080/osama2022/osama2023/47440?checkedby:iptvcat.com
-#EXTINF:-1   1Z6svKc.jpg"                                    General;Undefined",Galicia TV América,Televisión de Galicia América
+#EXTINF:0    , Galicia América
 http://america-crtvg.flumotion.com/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1   ,Historia
+#EXTINF:0      ,Historia
 http://red.ipfox.org:8080/osama2022/osama2023/47366?checkedby:iptvcat.com
-#EXTINF:-1   ,Hollywood
+#EXTINF:0     ,Hollywood
 http://red.ipfox.org:8080/osama2022/osama2023/47397?checkedby:iptvcat.com
-#EXTINF:-1   ,M+ #Vamos
+#EXTINF:0      ,M+ #Vamos
 http://red.ipfox.org:8080/osama2022/osama2023/47452?checkedby:iptvcat.com
-#EXTINF:-1   ,M+ Accion
+#EXTINF:0     ,M+ Accion
 http://red.ipfox.org:8080/osama2022/osama2023/47411?checkedby:iptvcat.com
-#EXTINF:-1   ,M+ Cine Espanol
+#EXTINF:0     ,M+ Cine Espanol
 http://red.ipfox.org:8080/osama2022/osama2023/47405?checkedby:iptvcat.com
-#EXTINF:-1   ,M+ Comedia
+#EXTINF:0     ,M+ Comedia
 http://red.ipfox.org:8080/osama2022/osama2023/47409?checkedby:iptvcat.com
-#EXTINF:-1   ,M+ Drama
+#EXTINF:0      ,M+ Drama
 http://red.ipfox.org:8080/osama2022/osama2023/47407?checkedby:iptvcat.com
-#EXTINF:-1   ,M+ Ellas #V
+#EXTINF:0      ,M+ Ellas #V
 http://red.ipfox.org:8080/osama2022/osama2023/47309?checkedby:iptvcat.com
-#EXTINF:-1   ,M+ Estrenos
+#EXTINF:0      ,M+ Estrenos
 http://red.ipfox.org:8080/osama2022/osama2023/47417?checkedby:iptvcat.com
-#EXTINF:-1   ,M+ Estrenos 2
+#EXTINF:0     ,M+ Estrenos 2
 http://red.ipfox.org:8080/osama2022/osama2023/47415?checkedby:iptvcat.com
-#EXTINF:-1   ,M+ Series
+#EXTINF:0      ,M+ Series
 http://red.ipfox.org:8080/osama2022/osama2023/47446?checkedby:iptvcat.com
-#EXTINF:-1   ,M+ VHS
+#EXTINF:0     ,M+ VHS
 http://red.ipfox.org:8080/osama2022/osama2023/47314?checkedby:iptvcat.com
-#EXTINF:-1   ,MOLA TV ES
+#EXTINF:0     ,MOLA TV ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/92826?checkedby:iptvcat.com
-#EXTINF:-1   ,MTV
+#EXTINF:0     ,MTV
 http://red.ipfox.org:8080/osama2022/osama2023/47342?checkedby:iptvcat.com
-#EXTINF:-1   ,MTV Realities ES
+#EXTINF:0     ,MTV Realities ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/299392?checkedby:iptvcat.com
-#EXTINF:-1   ,Mega
+#EXTINF:0     ,Mega
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mega.es.m3u8?checkedby:iptvcat.com
-#EXTINF:-1   ,Movistar Accion
+#EXTINF:0     ,Movistar Accion
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.accion.es.m3u8?checkedby:iptvcat.com
-#EXTINF:-1   ,Movistar DCine
+#EXTINF:0     ,Movistar DCine
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.dcine.es.m3u8?checkedby:iptvcat.com
-#EXTINF:-1   ,Movistar Disney ES
+#EXTINF:0      ,Movistar Disney ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48928?checkedby:iptvcat.com
-#EXTINF:-1   ,Movistar Drama ES
+#EXTINF:0     ,Movistar Drama ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48806?checkedby:iptvcat.com
-#EXTINF:-1   ,N1 Play Cine Estelar ES
+#EXTINF:0      ,N1 Play Cine Estelar ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/299353?checkedby:iptvcat.com
-#EXTINF:-1   ,N1 Play Cine Comedia ES
+#EXTINF:0      ,N1 Play Cine Comedia ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/299360?checkedby:iptvcat.com
-#EXTINF:-1   ,N1 Play Documentales ES
+#EXTINF:0      ,N1 Play Documentales ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/299364?checkedby:iptvcat.com
-#EXTINF:-1   ,N1 Play Cine Romántico ES
+#EXTINF:0      ,N1 Play Cine Romántico ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/299358?checkedby:iptvcat.com
-#EXTINF:-1   ,N1 Play Horror ES
+#EXTINF:0      ,N1 Play Horror ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/299347?checkedby:iptvcat.com
-#EXTINF:-1   ,N1 Play Investiga ES
+#EXTINF:0      ,N1 Play Investiga ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/299382?checkedby:iptvcat.com
-#EXTINF:-1   ,N1 Play Paranormal ES
+#EXTINF:0      ,N1 Play Paranormal ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/299385?checkedby:iptvcat.com
-#EXTINF:-1   ,N1 Play Series Comedia ES
+#EXTINF:0      ,N1 Play Series Comedia ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/299399?checkedby:iptvcat.com
-#EXTINF:-1   ,N1 Play Teen Stars ES
+#EXTINF:0      ,N1 Play Teen Stars ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/299434?checkedby:iptvcat.com
-#EXTINF:-1   ,N1 Play Telenovelas ES
+#EXTINF:0      ,N1 Play Telenovelas ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/299368?checkedby:iptvcat.com
-#EXTINF:-1   ,Nat Geo FHD ES
+#EXTINF:0      ,Nat Geo FHD ES
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48838?checkedby:iptvcat.com
-#EXTINF:-1   ,Nat Geo Wild
+#EXTINF:0     ,Nat Geo Wild
 http://red.ipfox.org:8080/osama2022/osama2023/47368?checkedby:iptvcat.com
-#EXTINF:-1   ,NatGeo
+#EXTINF:0      ,NatGeo
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nat.geo.es.m3u8?checkedby:iptvcat.com
-#EXTINF:-1   ,National Geographic
+#EXTINF:0      ,National Geographic
 http://red.ipfox.org:8080/osama2022/osama2023/47370?checkedby:iptvcat.com
-#EXTINF:-1   ,Neox
+#EXTINF:0      ,Neox
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/neox.es.m3u8?checkedby:iptvcat.com
-#EXTINF:-1   ,Nickelodeon
+#EXTINF:0     ,Nickelodeon
 http://red.ipfox.org:8080/osama2022/osama2023/47350?checkedby:iptvcat.com
-#EXTINF:-1   ,Nova
+#EXTINF:0      ,Nova
 http://red.ipfox.org:8080/osama2022/osama2023/47360?checkedby:iptvcat.com
-#EXTINF:-1   ,Odisea
+#EXTINF:0      ,Odisea
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/odisea.es.m3u8?checkedby:iptvcat.com
-#EXTINF:-1   ,Paramount
+#EXTINF:0      ,Paramount
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/paramount.es.m3u8?checkedby:iptvcat.com
-#EXTINF:-1   ,SYFY
+#EXTINF:0   ,SYFY
 http://red.ipfox.org:8080/osama2022/osama2023/47425?checkedby:iptvcat.com
-#EXTINF:-1   ,Sol Musica
+#EXTINF:0   ,Sol Musica
 http://red.ipfox.org:8080/osama2022/osama2023/47341?checkedby:iptvcat.com
-#EXTINF:-1   ,TCM
+#EXTINF:0   ,TCM
 http://red.ipfox.org:8080/osama2022/osama2023/47401?checkedby:iptvcat.com
-#EXTINF:-1   ,TNT
+#EXTINF:0   ,TNT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tnt.es.m3u8?checkedby:iptvcat.com
 
