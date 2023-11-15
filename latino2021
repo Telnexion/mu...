@@ -2,6 +2,41 @@
 
 
 
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",
+http://lavozdetucuman.com/peliculas1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",
+https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",
+
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",
+
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",
+
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",
+
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",
+
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="NOTICIAS",Telefe Noticias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="ext" group-title="AMBA",AMERICA HD  36.1
