@@ -1,5 +1,14 @@
 #EXTM3U x-tvg-url="" tv-test=".m3u"
 
+#EXTINF:0 tvg-id="CronicaTV.ar" group-title="NOTICIAS",CRONICA HD  24.4
+https://g2.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",CANAL 26  24.2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
+#EXTINF:0 tvg-id="A24.ar" group-title="NOTICIAS",A24  36.3
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
+
+
 #EXTINF:-1 tvg-id="AmericaTV.ar"  user-agent="iPhone",América TV (720p)
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
