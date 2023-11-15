@@ -846,221 +846,14 @@ https://v4.tustreaming.cl/poptv/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 
 
-#EXTINF:-1 ,TVSurCanal14
-https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
-
-#EXTINF:-1 ,TvfacesOnline
-https://tvdatta.com:3211/stream/play.m3u8
-
-#EXTINF:-1 ,TVGEuropa
-https://europa-crtvg.flumotion.com/playlist.m3u8
-
-
-
-
-#EXTINF:-1 ,TVMCordoba
-http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
-
-#EXTINF:-1 ,XHGVTDT
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-
-#EXTINF:-1 ,TVOSanVicente
-https://pantera1-100gb-cl-movistar.dps.live/tvo/tvo.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 ,UCI
-https://servilive.com:3449/live/mlecaroslive.m3u8
-
-
-
-#EXTINF:-1 ,UATV
-https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
-
-#EXTINF:-1 ,VCOnline
-https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8
-
-#EXTINF:-1 ,VePlus
-http://190.122.96.187:8888/http/006
-
-#EXTINF:-1 ,ViaAltomayo
-https://live.obslivestream.com/viaaltomayomux/index.m3u8
-
-#EXTINF:-1 ,VideoTourChannel
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-
-#EXTINF:-1 ,Vision6TV
-https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
-
-#EXTINF:-1 ,VTVValledeAconcagua
-https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
-
-#EXTINF:-1 ,Wapp
-https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
-
-#EXTINF:-1 ,WillaxTV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
-
-#EXTINF:-1 ,XTVChachapoyas
-https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
-
-#EXTINF:-1 ,XTOTV
-http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
-
-#EXTINF:-1 ,Zol106
-https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
-
-#EXTINF:-1 ,La8Bierzo
-https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8
-
-#EXTINF:-1 ,La8Burgos
-https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
-
-#EXTINF:-1 ,La8Leon
-https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8
-
-#EXTINF:-1 ,La8Palencia
-https://cdnlive.shooowit.net/la8palencialive/smil:streamswitchingchannel.smil/playlist.m3u8
-
-#EXTINF:-1 ,La8Salamanca
-https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8
-
-#EXTINF:-1 ,La8Segovia
-https://cdnlive.shooowit.net/la8segovialive/smil:streamswitchingchannel.smil/playlist.m3u8
-
-#EXTINF:-1 ,La8Valladolid
-https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
-
-#EXTINF:-1 ,La8Zamora
-https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8
-
-
-#EXTINF:-1 ,LaGranjaTV
-https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8
-
-#EXTINF:-1 ,LaLuzTV
-http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
-
-
-
-
-#EXTINF:-1 ,MegaTVJaen
-https://tv.portalexpress.es:3399/hybrid/play.m3u8
-
-#EXTINF:-1 ,MexicoTravelChannel
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v76vf
-
-#EXTINF:-1 ,MultimediosMonterrey
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1 ,MultivisionFederal
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
-
-
-
-#EXTINF:-1 ,OndaDigital
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-
-
-
-
-#EXTINF:-1 ,OxigenoTV
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
-
-#EXTINF:-1 ,PanamericanaTV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
-
-#EXTINF:-1 ,Pauta
-https://unlimited1-us.dps.live/pautatv/pautatv.smil/playlist.m3u8
-
-#EXTINF:-1 ,PBO
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ/live
-
-#EXTINF:-1 ,PeruChannel
-https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-
-
-
-#EXTINF:-1 ,PintanaTV
-http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 ,PuraPalabra
-https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
-
-#EXTINF:-1 ,QhuboTV
-https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
-
-
-
-#EXTINF:-1 ,QuieroTV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8452uw
-
-
-
-
-
-
-#EXTINF:-1 ,RCGTV2
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-
-#EXTINF:-1 ,ReadyTVCanal6
-http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
-
-
-
 
 
 #EXTINF:-1 ,RTVTotalYurimaguas
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 
-#EXTINF:-1 ,RuidosFM.cl
-https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8
 
 #EXTINF:-1 ,SantaMariaTelevision
-
-
-
-
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-
-
-
-
-
-
-
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1  ,  cmctv
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-
-#EXTINF:-1  ,  fashiontv
-
-
-
-
-
-
-
-#EXTINF:-1  ,  radiou
-https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
-#EXTINF:-1  , 
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-
-
-
-#EXTINF:-1  , 
-https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 
 
 
@@ -1071,15 +864,8 @@ http://cdn.adultiptv.net/brunette.m3u8
 http://cdn.adultiptv.net/bigtits.m3u8
 
 
-
-
 #EXTINF:-1  , xxx- Asian HD 18+
 http://cdn.adultiptv.net/asian.m3u8
-
-
-
-
-
 
 #EXTINF:-1  , xxx- Gang Bang Channel HD 18+
 http://cdn.adultiptv.net/gangbang.m3u8
